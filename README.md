@@ -1,6 +1,6 @@
 <body>
 
-  <h1> hamza taiwo alphonso- Data Analytics Portfolio</h1>
+  <h1> Alphonso Taiwo Olufunsho- Data Analytics Portfolio</h1>
   <p>Hello! I am a data analyst interested in using data to solve real-world problems.</p>
 
   <hr>
